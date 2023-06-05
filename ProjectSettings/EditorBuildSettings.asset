@@ -21,6 +21,42 @@ EditorBuildSettings:
     path: Assets/DontTouchThis/Scenes/DecorScene.unity
     guid: ac7652b2c5cefea4ebabeab4891af328
   - enabled: 1
-    path: Assets/Students Folder/Scenes/SetupSceneToDuplicate.unity
-    guid: e1058e7ffe49b974e9aff4b0c24dc63b
+    path: Assets/Students Folder/Scenes/GamePlay BarralTristan.unity
+    guid: c35c00a0f9643624d963fc46aed9b14b
+  - enabled: 1
+    path: Assets/Students Folder/Scenes/Gameplay_FrdbzAnto.unity
+    guid: 0b58869e3da11b94baddf6251e58b96e
+  - enabled: 1
+    path: Assets/Students Folder/Scenes/Gameplay_Patrice_Mathieu.unity
+    guid: ca7e51995b96d0b4f92a362a9ab89549
+  - enabled: 1
+    path: Assets/Students Folder/Scenes/GameplayBilalisLara.unity
+    guid: f4db2998d05bf534692957b5aeae00ad
+  - enabled: 1
+    path: Assets/Students Folder/Scenes/GameplayBourbonHugo.unity
+    guid: 477ac935594961b48b348dd576cdf916
+  - enabled: 1
+    path: Assets/Students Folder/Scenes/GameplayBourgeoisRomain.unity
+    guid: a4d82ec9c91a8ef4ea058b48652fe3ca
+  - enabled: 1
+    path: Assets/Students Folder/Scenes/GameplayCaudronDavidE.unity
+    guid: 99b35adee8c0d2249bef2bbbae3ff886
+  - enabled: 1
+    path: Assets/Students Folder/Scenes/GameplayCelorMoon.unity
+    guid: fa1b50f6f2e2b4549bfd41dc344d6821
+  - enabled: 1
+    path: Assets/Students Folder/Scenes/GamePlayCorbisierAngelique.unity
+    guid: f716e09741de77645a6bf8edc85385df
+  - enabled: 1
+    path: Assets/Students Folder/Scenes/GameplayHugoBodson.unity
+    guid: 6f19248f82a1c17408cd8feeaeb331fe
+  - enabled: 1
+    path: Assets/Students Folder/Scenes/GameplayMaximilienSacca.unity
+    guid: a37a631e801ea014bb1d694621ef0743
+  - enabled: 1
+    path: Assets/Students Folder/Scenes/GameplaySimonStef.unity
+    guid: 27af4b8babfeef04496907ad3eb2ec0b
+  - enabled: 1
+    path: Assets/Students Folder/Scenes/GameplayTytgatBenoit.unity
+    guid: 52d98bea5050bea49ad80d8e417b5f4a
   m_configObjects: {}
