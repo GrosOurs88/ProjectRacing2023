@@ -198,7 +198,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4061590075983525047}
   m_Layer: 5
-  m_Name: PointToSpawn_Corentin
+  m_Name: PointToSpawn_Hugo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -212,7 +212,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 53080282079309365}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -50.01, y: 10.02, z: 0}
+  m_LocalPosition: {x: -75.039, y: 0.824, z: 1.491}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1885652422542428789}
@@ -228,7 +228,7 @@ GameObject:
   m_Component:
   - component: {fileID: 799977199308772860}
   m_Layer: 5
-  m_Name: PointToSpawn_Paul
+  m_Name: PointToSpawn_Benoit
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -242,7 +242,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 127210794222183570}
   m_LocalRotation: {x: -0, y: -0.70710677, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 0, y: 10.05, z: -50.03}
+  m_LocalPosition: {x: -1.583, y: 0.828, z: -90.278}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1885652422542428789}
@@ -568,7 +568,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8270776599952664453}
   m_Layer: 5
-  m_Name: PointToSpawn_Quentin
+  m_Name: PointToSpawn_Antonin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -582,7 +582,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1711807643760931012}
   m_LocalRotation: {x: -0, y: 0.000000014901159, z: -0, w: 1}
-  m_LocalPosition: {x: -94, y: 22.34, z: -17.39}
+  m_LocalPosition: {x: -85.136, y: 0.567, z: -0.11}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1885652422542428789}
@@ -598,7 +598,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5637806255560849189}
   m_Layer: 5
-  m_Name: PointToSpawn_Alexandre
+  m_Name: PointToSpawn_Romain
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -612,7 +612,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2839507438582109554}
   m_LocalRotation: {x: -0, y: 1, z: -0, w: 0}
-  m_LocalPosition: {x: 49.98, y: 40.84, z: 0}
+  m_LocalPosition: {x: 75.128, y: 12.373, z: -5.35}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1885652422542428789}
@@ -641,7 +641,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8929515599863728806}
   m_Layer: 5
-  m_Name: PointToSpawn_Xavier
+  m_Name: "PointToSpawn_C\xE9lor"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -655,7 +655,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4811684126278130899}
   m_LocalRotation: {x: -0, y: 0.70710677, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 0, y: 1.95, z: 81.64}
+  m_LocalPosition: {x: 1.3, y: 0.249, z: 108.59}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1885652422542428789}
@@ -671,7 +671,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6033346985750255038}
   m_Layer: 5
-  m_Name: PointToSpawn_Jason
+  m_Name: PointToSpawn_Maximilien
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -685,7 +685,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5884140045155543503}
   m_LocalRotation: {x: -0, y: -0.70710677, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 0, y: 0.872, z: -123.59}
+  m_LocalPosition: {x: -1.84, y: 0.872, z: -111.16}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1885652422542428789}
@@ -701,7 +701,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7912025372964402381}
   m_Layer: 5
-  m_Name: PointToSpawn_Antonio
+  m_Name: PointToSpawn_Lara
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -715,7 +715,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6113100561536766431}
   m_LocalRotation: {x: -0, y: 1, z: -0, w: -0.000000059604645}
-  m_LocalPosition: {x: 79.97, y: 9.781, z: 0}
+  m_LocalPosition: {x: 45, y: 10.13, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1885652422542428789}
@@ -731,7 +731,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4132277258427157119}
   m_Layer: 5
-  m_Name: PointToSpawn_Mathieu
+  m_Name: PointToSpawn_Patrice
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -745,7 +745,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6133103322784605871}
   m_LocalRotation: {x: -0, y: -1, z: -0, w: 0.00000010430811}
-  m_LocalPosition: {x: 20.02, y: 1.96, z: 0}
+  m_LocalPosition: {x: 35.426, y: 24.36, z: -7.797}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1885652422542428789}
@@ -761,7 +761,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5199132480503502223}
   m_Layer: 5
-  m_Name: PointToSpawn_Nicolas
+  m_Name: PointToSpawn_Stefan
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -775,7 +775,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6914444952993786373}
   m_LocalRotation: {x: -0, y: 0.70710677, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 0, y: 25.858, z: 49.95}
+  m_LocalPosition: {x: 3.46, y: 13.72, z: 92.22}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1885652422542428789}
@@ -791,7 +791,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3608937074988053717}
   m_Layer: 5
-  m_Name: PointToSpawn_Lionel
+  m_Name: "PointToSpawn_Ang\xE9lique"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -805,7 +805,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7161269433227861547}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -20.07, y: 2.11, z: -0.05}
+  m_LocalPosition: {x: -50.04, y: 0.75, z: 6.02}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1885652422542428789}
@@ -821,7 +821,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7695385129832285460}
   m_Layer: 5
-  m_Name: PointToSpawn_Egon
+  m_Name: PointToSpawn_Tristan
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -835,7 +835,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7574899278318816272}
   m_LocalRotation: {x: -0, y: 0.70710677, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 0, y: 10.072, z: 20.06}
+  m_LocalPosition: {x: -0, y: 10.072, z: 74.3}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1885652422542428789}
@@ -851,7 +851,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2528267060458695956}
   m_Layer: 5
-  m_Name: PointToSpawn_ Louise
+  m_Name: PointToSpawn_David_Emmanuel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -865,7 +865,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 9218792617057495898}
   m_LocalRotation: {x: -0, y: -0.70710707, z: -0, w: 0.70710653}
-  m_LocalPosition: {x: 0, y: 17.656, z: -14.96}
+  m_LocalPosition: {x: -2.15, y: 1.157, z: -135}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1885652422542428789}
