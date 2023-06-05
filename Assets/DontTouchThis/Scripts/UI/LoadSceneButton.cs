@@ -10,33 +10,37 @@ namespace KartGame.UI
         [Tooltip("What are the names of the scenes we want to load when clicking the button?")]
         public List<string> scenesName = new List<string>();
 
+        public string StartSceneName = "BuildStartScene";
+
         private string thisSceneName;
 
         public void LoadTargetScene()
         {
-            thisSceneName = SceneManager.GetActiveScene().name;
+            SceneManager.LoadSceneAsync(StartSceneName, LoadSceneMode.Single);
 
-            StartCoroutine(LoadLevel());
+            //thisSceneName = SceneManager.GetActiveScene().name;
+
+            // StartCoroutine(LoadLevel());
         }
 
-        IEnumerator LoadLevel()
-        {
-            AsyncOperation asyncLoadLevel;
+        //IEnumerator LoadLevel()
+        //{
+        //    AsyncOperation asyncLoadLevel;
 
-            for (int i = 0; i < scenesName.Count; i++)
-            {
-                if (scenesName[i] != "")
-                {
-                    asyncLoadLevel = SceneManager.LoadSceneAsync(scenesName[i], LoadSceneMode.Additive);
-                    while (!asyncLoadLevel.isDone)
-                    {
-                        yield return null;
-                    }
-                }
-            }
+        //    for (int i = 0; i < scenesName.Count; i++)
+        //    {
+        //        if (scenesName[i] != "")
+        //        {
+        //            asyncLoadLevel = SceneManager.LoadSceneAsync(scenesName[i], LoadSceneMode.Additive);
+        //            while (!asyncLoadLevel.isDone)
+        //            {
+        //                yield return null;
+        //            }
+        //        }
+        //    }
 
-            SceneManager.SetActiveScene(SceneManager.GetSceneByName("MainScene"));
-            SceneManager.UnloadSceneAsync(thisSceneName);
-        }
+        //    SceneManager.SetActiveScene(SceneManager.GetSceneByName("MainScene"));
+        //    SceneManager.UnloadSceneAsync(thisSceneName);
+        //}
     }
 }
