@@ -12,7 +12,12 @@ public class RestartManagerScript : MonoBehaviour
     {
         if (Input.GetButton(RestartButtonName))
         {
-            SceneManager.LoadSceneAsync(StartSceneName, LoadSceneMode.Single);
+            Restart();
         }
+    }
+
+    public void Restart()
+    {
+        SceneManager.LoadSceneAsync(StartSceneName, LoadSceneMode.Single);
     }
 }
