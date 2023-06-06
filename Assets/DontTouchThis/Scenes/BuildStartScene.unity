@@ -343,21 +343,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scenesToLoadAtStart:
-  - 
-  - 
   - GameplayBourbonHugo
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - GamePlay BarralTristan
+  - Gameplay_FrdbzAnto
+  - Gameplay_Patrice_Mathieu
+  - GameplayBilalisLara
+  - GameplayBourgeoisRomain
+  - GameplayCaudronDavidE
+  - GameplayCelorMoon
+  - GamePlayCorbisierAngelique
+  - GameplayHugoBodson
+  - GameplayMaximilienSacca
+  - GameplaySimonStef
+  - GameplayTytgatBenoit
   - DecorScene
-  - LinksScene
   - MainScene
 --- !u!1 &1515802732
 GameObject:
