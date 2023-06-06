@@ -9,6 +9,9 @@ public enum GameState{Play, Won, Lost}
 
 public class GameFlowManager : MonoBehaviour
 {
+    [Header("Spawn Positions")]
+    public SpawnInSpecificZone zoneToSpawn;
+
     [Header("Parameters")]
     [Tooltip("Duration of the fade-to-black at the end of the game")]
     public float endSceneLoadDelay = 3f;
@@ -53,7 +56,6 @@ public class GameFlowManager : MonoBehaviour
 
     public enum SpawnInSpecificZone { Nothing, Zone1_Maximilien, Zone2_Angelique, Zone3_Celor, Zone4_Patrice, Zone5_Benoit, Zone6_Hugo, Zone7_Tristan, Zone8_Lara, Zone9_David, Zone10_Antonin, Zone11_Stefan, Zone12_Romain }
     public GameObject zonesSpawnPointsList;
-    public SpawnInSpecificZone zoneToSpawn;
     
     public static GameFlowManager instance;
 
