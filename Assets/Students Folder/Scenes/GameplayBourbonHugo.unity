@@ -384,7 +384,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4967236629349933493, guid: ed460ea08141c0445ba777f47946a9ea, type: 3}
       propertyPath: devName
-      value: XXX
+      value: David
       objectReference: {fileID: 0}
     - target: {fileID: 6686098537662063933, guid: ed460ea08141c0445ba777f47946a9ea, type: 3}
       propertyPath: m_RootOrder
@@ -445,7 +445,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4967236629349933493, guid: ed460ea08141c0445ba777f47946a9ea, type: 3}
       propertyPath: devName
-      value: XXX
+      value: Lara
       objectReference: {fileID: 0}
     - target: {fileID: 6686098537662063933, guid: ed460ea08141c0445ba777f47946a9ea, type: 3}
       propertyPath: m_RootOrder
@@ -506,7 +506,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4967236629349933493, guid: ed460ea08141c0445ba777f47946a9ea, type: 3}
       propertyPath: devName
-      value: XXX
+      value: Tristan
       objectReference: {fileID: 0}
     - target: {fileID: 6686098537662063933, guid: ed460ea08141c0445ba777f47946a9ea, type: 3}
       propertyPath: m_RootOrder
@@ -810,7 +810,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4967236629349933493, guid: ed460ea08141c0445ba777f47946a9ea, type: 3}
       propertyPath: devName
-      value: XXX
+      value: Romain
       objectReference: {fileID: 0}
     - target: {fileID: 6686098537662063933, guid: ed460ea08141c0445ba777f47946a9ea, type: 3}
       propertyPath: m_RootOrder
@@ -932,7 +932,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4967236629349933493, guid: ed460ea08141c0445ba777f47946a9ea, type: 3}
       propertyPath: devName
-      value: XXX
+      value: Antonin
       objectReference: {fileID: 0}
     - target: {fileID: 6686098537662063933, guid: ed460ea08141c0445ba777f47946a9ea, type: 3}
       propertyPath: m_RootOrder
@@ -993,7 +993,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4967236629349933493, guid: ed460ea08141c0445ba777f47946a9ea, type: 3}
       propertyPath: devName
-      value: XXX
+      value: Stefan
       objectReference: {fileID: 0}
     - target: {fileID: 6686098537662063933, guid: ed460ea08141c0445ba777f47946a9ea, type: 3}
       propertyPath: m_RootOrder
