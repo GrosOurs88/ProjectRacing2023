@@ -65,7 +65,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 128
   CollectVFXSpawnPoint: {fileID: 3761431495673512401}
-  CollectSound: {fileID: 8300000, guid: c1d1b8740810641508a7156b10ff59f2, type: 3}
+  CollectSound: {fileID: 8300000, guid: 15336228fca37454b958f5703d9063a7, type: 3}
   active: 0
   spawnPrefabOnPickup: {fileID: 6826360479369095008, guid: 008a784118f584403927169df54b5b47, type: 3}
   destroySpawnPrefabDelay: 2
