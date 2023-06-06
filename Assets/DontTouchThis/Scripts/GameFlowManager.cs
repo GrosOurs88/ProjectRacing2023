@@ -51,7 +51,7 @@ public class GameFlowManager : MonoBehaviour
 
     public TimeInfos finalTime;
 
-    public enum SpawnInSpecificZone { Nothing, Zone1_Maximilien, Zone2_Angelique, Zone3_Celor, Zone4_Patrice, Zone5_Benoit, Zone6_Hugo, Zone7_Tristan, Zone8_Lara, Zone9_DavidEmmanuel, Zone10_Antonin, Zone11_Stefan, Zone12_Romain }
+    public enum SpawnInSpecificZone { Nothing, Zone1_Maximilien, Zone2_Angelique, Zone3_Celor, Zone4_Patrice, Zone5_Benoit, Zone6_Hugo, Zone7_Tristan, Zone8_Lara, Zone9_David, Zone10_Antonin, Zone11_Stefan, Zone12_Romain }
     public GameObject zonesSpawnPointsList;
     public SpawnInSpecificZone zoneToSpawn;
     
@@ -130,7 +130,7 @@ public class GameFlowManager : MonoBehaviour
             case SpawnInSpecificZone.Zone8_Lara:
                 TeleportKartToPoint(7);
                 break;
-            case SpawnInSpecificZone.Zone9_DavidEmmanuel:
+            case SpawnInSpecificZone.Zone9_David:
                 TeleportKartToPoint(8);
                 break;
             case SpawnInSpecificZone.Zone10_Antonin:
