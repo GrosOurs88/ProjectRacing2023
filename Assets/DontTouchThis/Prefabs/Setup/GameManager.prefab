@@ -364,6 +364,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5e1fea5cb3ddbc249bd0181e6766db68, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  zoneToSpawn: 1
   endSceneLoadDelay: 4
   endGameFadeCanvasGroup: {fileID: 6089522275397732777}
   winSceneName: WinScene
@@ -378,7 +379,6 @@ MonoBehaviour:
   playerKart: {fileID: 0}
   finalTime: {fileID: 11400000, guid: ae675e31837e3ff40aee1f20e8a52953, type: 2}
   zonesSpawnPointsList: {fileID: 850246528061975821}
-  zoneToSpawn: 0
 --- !u!114 &3244674540524639750
 MonoBehaviour:
   m_ObjectHideFlags: 0
