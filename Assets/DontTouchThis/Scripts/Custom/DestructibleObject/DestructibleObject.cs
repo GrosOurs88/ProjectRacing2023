@@ -15,4 +15,14 @@ public class DestructibleObject : MonoBehaviour
             Destroy(gameObject);
         }
     }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.gameObject.CompareTag("Player"))
+        {
+            Instantiate(particle, transform.position, Quaternion.identity);
+
+            Destroy(gameObject);
+        }
+    }
 }

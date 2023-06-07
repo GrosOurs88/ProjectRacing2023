@@ -21,4 +21,12 @@ public class MakeSoundWhenTouched : MonoBehaviour
             source.PlayOneShot(sound);
         }
     }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.gameObject.CompareTag("Player") && !source.isPlaying)
+        {
+            source.PlayOneShot(sound);
+        }
+    }
 }
