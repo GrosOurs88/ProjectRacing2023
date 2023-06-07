@@ -5,7 +5,14 @@ using UnityEngine.Audio;
 
 public class AudioManager : MonoBehaviour
 {
+    static public AudioManager Instance;
     public AudioMixer audioMixer;
+    public AudioSource audioSfxSource;
+
+    public void Awake()
+    {
+        Instance = this;
+    }
 
     public void EnsureSFXDestruction(AudioSource source)
     {
