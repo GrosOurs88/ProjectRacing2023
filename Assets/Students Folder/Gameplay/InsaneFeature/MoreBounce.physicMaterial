@@ -6,9 +6,9 @@ PhysicMaterial:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: InsaneFriction
+  m_Name: MoreBounce
   dynamicFriction: 0
-  staticFriction: 0
-  bounciness: 0.8
+  staticFriction: 0.2
+  bounciness: 0.6
   frictionCombine: 1
   bounceCombine: 3
