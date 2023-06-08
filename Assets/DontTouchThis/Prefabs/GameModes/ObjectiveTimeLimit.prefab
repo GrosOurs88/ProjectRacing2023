@@ -51,7 +51,7 @@ MonoBehaviour:
   isOptional: 0
   delayVisible: 5
   isTimed: 1
-  totalTimeInSecs: 60
+  totalTimeInSecs: 180
   displayMessage: {fileID: 6435499550973355433}
   mustCollectAllPickups: 1
   pickupsToCompleteObjective: 3
