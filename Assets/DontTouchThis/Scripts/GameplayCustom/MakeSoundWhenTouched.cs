@@ -4,14 +4,12 @@ using UnityEngine;
 
 public class MakeSoundWhenTouched : MonoBehaviour
 {
-    private AudioManager audioManager;
-
     private AudioSource source;
     public AudioClip sound;
 
     private void Start()
     {
-        source = AudioManager.Instance.audioSfxSource;
+        source = AudioSfxManager.Instance.audioSfxSource;
     }
 
     private void OnCollisionEnter(Collision collision)
