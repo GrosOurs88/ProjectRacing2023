@@ -6,7 +6,17 @@ ModelImporter:
   - first:
       74: 6496768104422418593
     second: MoonGuyDance
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MoonGuyMat
+    second: {fileID: 2100000, guid: cb92ab2747fd19c47bb8f414877e048a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MoonGuyOutlineMat
+    second: {fileID: 2100000, guid: 4a9a038e3eb2ec345a437a351de26baa, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -39,7 +49,7 @@ ModelImporter:
       takeName: MoonGuyDance
       internalID: 0
       firstFrame: 0
-      lastFrame: 16
+      lastFrame: 17
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
