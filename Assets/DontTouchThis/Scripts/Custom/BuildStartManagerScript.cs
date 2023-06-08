@@ -33,7 +33,7 @@ public class BuildStartManagerScript : MonoBehaviour
             }
         }
 
-        for (int i = 0; i < 13; i++)
+        for (int i = 0; i < scenesToLoadAtStart.Count-1; i++)
         {
             actualScene = SceneManager.GetSceneByName(scenesToLoadAtStart[i]);
             objectsList = actualScene.GetRootGameObjects();
