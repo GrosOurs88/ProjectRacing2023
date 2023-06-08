@@ -343,6 +343,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scenesToLoadAtStart:
+  - SoundScene
   - GameplayBourbonHugo
   - GamePlay BarralTristan
   - Gameplay_FrdbzAnto
